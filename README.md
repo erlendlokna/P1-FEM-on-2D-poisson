@@ -3,6 +3,6 @@ This scipt solves numerically the 2D poisson equation presented below. It uses a
 
 2D poisson equation:
 
-<img src="https://render.githubusercontent.com/render/math?math=\nabla u = u_{xx} + u_{yy} = f(x,y)">
+<img src="https://render.githubusercontent.com/render/math?math=\nabla u = = f">
 
 However, this is a quick implementation and creates a solution that resembles an exact solution. The error is not yet checked
