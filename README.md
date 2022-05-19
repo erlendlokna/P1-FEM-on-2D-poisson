@@ -5,4 +5,7 @@ This scipt solves numerically the 2D poisson equation presented below. It uses a
 
 <img src="https://render.githubusercontent.com/render/math?math=\nabla u = f">
 
-This is a quick implementation and creates a solution that resembles an exact solution. The error is not yet checked, so i would not thrust the results completely 
+Mesh generation:
+![Mesh generation](https://github.com/erlendlokna/P1-FEM-on-2D-poisson/blob/main/figs/meshes.png)
+Numerical solutions:
+![Mesh generation](https://github.com/erlendlokna/P1-FEM-on-2D-poisson/blob/main/figs/solutions.png)
