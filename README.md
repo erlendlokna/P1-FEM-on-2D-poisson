@@ -3,7 +3,7 @@ This scipt solves numerically the 2D poisson equation presented below. It uses a
 
 2D poisson equation:
 
-<img src="https://render.githubusercontent.com/render/math?math=\nabla u = f">
+$$\nabla^2 u = (\partial_x^2 + \partial_y^2)u(x, y) = f $$
 
 Mesh generation:
 ![Mesh generation](https://github.com/erlendlokna/P1-FEM-on-2D-poisson/blob/main/figs/meshes.png)
